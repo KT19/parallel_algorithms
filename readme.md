@@ -3,5 +3,5 @@ This repository contains several parallel (multi-thread) algorithms.
 Mainly written in C++ (for algorithm parts) and Python (for plot).
 
 # Contents
-・merge・・・implementing merge sort
-・bubble・・・implementing bubble sort
+1. merge・・・implementing merge sort
+2. bubble・・・implementing bubble sort
