@@ -24,6 +24,7 @@ python3 merge_plot.py
 Then, result image is generated.
 
 Following is a result in my environment.
+
 ![results](merge_result.png)
 
 |data num | time [msec] <br>single thread | time [msec] <br>thread = 2 | time [msec] <br>thread = 4|
