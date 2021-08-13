@@ -1,7 +1,6 @@
 #include<iostream>
 #include<vector>
 #include<ctime>
-#include<ctime>
 #include<chrono>
 #include<thread>
 #include"Thread_Pool.h"
@@ -96,7 +95,7 @@ void parallel_bubble_sort(vector<int>& A, int thread_num) {
 
         pth.waitAll();
     }
-    
+
     return;
 }
 
